@@ -1,2 +1,2 @@
-ignore = { "611" }
+ignore = { "611", "631" }
 exclude_files = { "test/*" }
